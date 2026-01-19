@@ -1,0 +1,8 @@
+[0.00 - 6.00] phones had shipped with a commercial root kit called carrier iq.
+[0.00 - 6.00] carrier iq bills itself
+[6.00 - 10.56] as a tool for monitoring and improving mobile network performance by gathering statistics
+[10.56 - 16.36] about dropped calls, signal streams, and so on.
+[10.56 - 16.36] but as eckhart demonstrated, carrier iq
+[16.36 - 21.00] could do much more on your password than on your phones keyboard, with your text message
+[21.00 - 25.08] and pinpoint and transmit for location.
+[21.00 - 25.08] when eckhart published his findings,

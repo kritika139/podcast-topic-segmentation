@@ -1,0 +1,180 @@
+===== block_004.txt =====
+[0.00 - 4.56]  for scrambling. These algorithms are usually public and well understood, because no one
+[4.56 - 9.06]  is ever sure if an algorithm is secure until all her peers get a chance to look at it and
+[9.06 - 14.24]  check it over her flaws. Third, there's the key, a secret password that's fed into the
+[14.24 - 19.72]  algorithm along clear text in order to produce the scrambled file. This scrambled file,
+[19.72 - 25.00]  the fourth thing is called the ciphered and in that state it's an indecipherable mess.
+
+[0.00 - 5.52]  of no value to anyone unless they have the key to scramble it. People can copy this encrypted
+[5.52 - 11.12]  file all they want and it won't ever substitute for the legit product because it's indistinguishable
+[11.12 - 16.64]  from random noise. With the algorithm works, the file can't be unscrambled unless you have that key.
+[17.20 - 23.04]  With a digital lock, the player, the Kindle, the DVD player, a software program that plays or
+
+[0.00 - 5.68]  a copy of the secret key embedded in it. You load the ciphertext file on the player,
+[5.68 - 10.48]  it unscrambles the file and lets you see the clear text, and then it throws the clear text
+[10.48 - 13.92]  away when you're done.
+[13.92 - 18.08]  How Compatibility Works If you've been using computers for a long time,
+[18.08 - 23.16]  you probably remember where there were multiple incompatible ways of creating documents. You'd
+[23.16 - 25.00]  send someone your Apple Work spreadsheet.
+
+[0.00 - 2.94]  sheet, and they'd complain that they only had Excel.
+[2.94 - 6.48]  You'd send them a Word document, and they'd only have Word perfect.
+[6.48 - 10.16]  Over time, this ceased to be a problem, mostly because these programs started
+[10.16 - 14.28]  including an automatic feature for reading and writing each other's files.
+[14.28 - 16.32]  At first, this was complicated.
+[16.32 - 18.36]  You'd try to open a word processor in your program,
+[18.36 - 21.76]  would ask you if you wanted it converted from some obscure file for
+[21.76 - 24.00]  the one your program could understand.
+[24.00 - 24.96]  Then it became automatic.
+
+[0.00 - 6.00]  you've stopped asking and just automatically you fed it converting as need be. Likewise,
+[6.00 - 12.08]  in the early days of web browsers, there were lots of warring graphics, a whole acronym salads work,
+[12.08 - 21.60]  GIF, JPEG, PNG, SVG, BMP. Depending on the page you visited and the browser you get little red X's
+[21.60 - 26.88]  or error messages telling you your browser wasn't compatible.
+
+
+
+===== block_005.txt =====
+[0.00 - 5.92]  someone's animated dancing hamster image. But today, your browser just reads and displays
+[5.92 - 12.32]  all those files without batting an iRidge. What happened? Well, programmers made them compatible
+[12.32 - 17.76]  with the other format. This is something that is very hard to do in the physical world. Making
+[17.76 - 23.76]  your toaster compatible with a dishwasher isn't a project for the faint of heart. But it's routine
+[23.76 - 24.80]  in the digital world.
+
+[0.00 - 2.62]  not where digital locks are concerned.
+[2.62 - 4.82]  Here's where the problem for creators and investors,
+[4.82 - 7.02]  because anti-circumvention rules mean
+[7.02 - 9.90]  that only a digital locks maker can authorize you
+[9.90 - 10.82]  to open it.
+[10.82 - 13.90]  On-the-fly conversions to improve compatibility
+[13.90 - 15.66]  often aren't allowed.
+[15.66 - 19.18]  That's how copyright ceases to protect creative works
+[19.18 - 22.38]  and begins to protect digital locks instead.
+
+[0.00 - 6.92]  Chapter 1.2. Is this copyright protection? The people who make digital locks sell them
+[6.92 - 12.96]  as copy protection. That is, protection against having problems, sometimes as copyright protect.
+[12.96 - 17.48]  We can debate their claim to the former, but we should certainly reject the idea that digital
+[17.48 - 22.36]  locks protect copyright. As things stand now, it's the other way around. Many different
+[22.36 - 25.00]  reasons and rationales for copyright have been offered.
+
+[0.00 - 6.56]  since its inception. The English Statute of Anne of 1710 set out to protect the established English
+[6.56 - 12.32]  publishers from Scottish competition. Sixty-some years later, the U.S. Constitution provided for
+[12.32 - 18.32]  copyright to promote the progress of science and useful arts. The Berne Convention for the Protection
+[18.32 - 23.68]  of Artistic and Literary Works, one of the first international copyright agreements, its text was
+[23.68 - 27.76]  based on draft created by the U.S. Constitutional Authority.
+
+[0.00 - 5.84]  by Victor Hugo and M.D.A. added protection of an author's moral rights, the right to claim
+[5.84 - 11.20]  authorship of a work for and to prevent its distortion or modification. One rationale that
+[11.20 - 17.20]  has never is that copyright exists to protect middlemen, retailers, and distributors from
+[17.20 - 22.72]  being out negotiated by creators and their investors. Now, let's say there's a company with a wildly
+[22.72 - 24.88]  popular video distribution of filmmaker,
+
+
+
+===== block_006.txt =====
+[0.00 - 4.22]  they'll sell your movies and give you 70% of the revenue and even better
+[4.22 - 9.86]  They'll promise you that they'll keep your movies safe from piracy by putting their digital locks on them at first
+[10.16 - 14.84]  Everything's great. You're making money. They're making you sell a million
+[14.84 - 22.78]  Five million ten million then they squeeze on the 3070 split was just an introductory now that they proven out great
+[22.78 - 24.78]  Their technology is they want it
+
+[0.00 - 7.30]  At the current rate of sale, that means you'll be giving them millions of dollars every month.
+[7.30 - 12.30]  Money you were putting back into your own business, using to create more art, using to pay your
+[12.30 - 13.46]  own overhead.
+[13.46 - 16.02]  Without anti-circumvention, this is easy.
+[16.02 - 20.10]  You just call a meeting with the video distributor and say, no deal.
+[20.10 - 23.78]  First of all, there are plenty of other operators out there who can do what you do.
+[23.78 - 24.78]  You're the distributor.
+[24.78 - 25.78]  You're just a distributor.
+
+[0.00 - 5.68]  job is to provide invisible commodity plumbing that puts our movies in front of our audience.
+[5.68 - 9.92]  Second of all, for the money you're talking about, we could just skip the middleman and
+[9.92 - 16.20]  build our own system. So, yeah, no deal. It's your copyright. You have all the negotiating
+[16.20 - 23.08]  footage. But this works only if your audience can follow you from the old 40 new ones. If
+[23.08 - 25.08]  I'm your audience and I spent a thousand...
+
+[0.00 - 3.56]  In my movie library, I don't want to have the investment.
+[3.56 - 9.68]  I want to be able to use one family of devices and one program to manage my movies.
+[9.68 - 15.32]  I'm not going to try to remember which movie goes with which player and which device, and
+[15.32 - 22.24]  I'm certainly not going to get a new box under my TV just for your movies, let alone a new
+[22.24 - 23.44]  TV.
+
+[0.00 - 5.20]  circumvention to the mix, all of copyright's protection is handed directly to the company
+[5.20 - 11.04]  that slapped a digital lock on the product. The filmmaker can't authorize audiences to break
+[11.04 - 17.28]  those locks and convert their movies to play on a new device. The investor can't authorize that
+[17.28 - 23.36]  either. Only the distributor has the right to allow this. The distributor who stands to lose
+[23.36 - 24.88]  everything if it happens.
+
+
+
+===== block_007.txt =====
+[0.00 - 4.96]  Here's another snippet. Imagine for a moment that every book you bought at Walmart could be
+[4.96 - 10.88]  shelved only on a bookcase from Walmart. The books were designed with some kind of little divot
+[10.88 - 16.96]  in the spine so that they could sit flat only on a Walmart shelf and printed with a special ink
+[16.96 - 22.48]  that glowed only under a Walmart light bulb and only when held at a special angle you could attain
+[22.48 - 24.88]  only by sitting in a specially designed Walmart.
+
+[0.00 - 6.36]  Every time you sold a $10 book through Walmart, that would be $10 worth of investment in this
+[6.36 - 12.00]  Walmart ecosystem your readers would feel beholden to, even if you and all their other
+[12.00 - 16.48]  favorite authors would later offer a better deal at Barnes & Noble.
+[16.48 - 20.48]  Meanwhile, you'd only get 50 cents of that $10 royalties if that.
+[20.48 - 23.48]  It's easy to understand why Walmart loves this.
+[23.48 - 25.00]  It creates a winner takes all money.
+
+[0.00 - 4.60]  market, where a small advantage quickly grows into an unbridgeable gap.
+[4.60 - 10.60]  The question is, why should authors or publishers want to have anything to do with a scheme
+[10.60 - 11.60]  like that?
+[11.60 - 13.36]  Digital locks are Roche Motel.
+[13.36 - 16.84]  Copyrighted works check in, but they don't check out.
+[16.84 - 19.44]  Creators and investors lose control of their business.
+[19.44 - 24.24]  They become commodity suppliers for a distribution channel that calls all the shots.
+
+[0.00 - 5.72]  isn't copyright protection. It's middleman. Ashet, one of the largest publishers in the
+[5.72 - 11.28]  world, learned this the hard way in 2000. Amazon demanded a deeper wholesale discount
+[11.28 - 16.96]  on Ashet. Amazon retaliated by blacking out many Ashet titles on its site, including books
+[16.96 - 22.84]  by best sellers like JK Rowling, either marking them as unavailable or on backorder, and even
+[22.84 - 25.04]  suggesting books by other public...
+
+[0.00 - 4.34]  publishers, or used copies of the A'Shatt titles as alternatives.
+[4.34 - 10.10]  A'Shatt, the most fervent digital lock advocate in the publishing world, was reduced to offering
+[10.10 - 13.06]  scolding comments in retaliation.
+[13.06 - 16.82]  If it hadn't been for the locks in the A'Shatt titles, the company would have had a much
+[16.82 - 21.34]  more fearsome weapon at its disposal when it came to its Kindle titles.
+[21.34 - 25.02]  It could have offered a 10% Amazon refugee discount.
+
+
+
+===== block_008.txt =====
+[0.00 - 5.92]  and Noble and other retailers, and posted a free tool like the Calibre Reader so that existing
+[5.92 - 10.72]  Amazon customers could easily convert their purchases to run on competitors' platforms.
+[10.72 - 16.88]  But under the DMCA, only Amazon can authorize the conversion of Kindle books to read on
+[16.88 - 20.16]  non-kindle platforms. Good luck with that, Ashed.
+[21.84 - 23.76]  Platform as Roche Motel
+[23.76 - 25.60]  Brewster Kale is a
+
+[0.00 - 4.68]  bit of a software lead. He created the first search engine, the Wide Area Information
+[4.68 - 11.44]  Server, Waze. Sold it, founded another search company, Alexa, sold it, and then decided to
+[11.44 - 17.02]  spend the rest of it at Archive, Archive.org. An amazing public library. Brewster tells
+[17.02 - 21.12]  a famous story about life in the shadow of Microsoft during the heyday of the packaged
+[21.12 - 25.00]  software industry when all software was sold in boxes hanging from the wall.
+
+[0.00 - 5.92]  pegs and software stores. Back in those days, Microsoft owned 95% of the operating system
+[5.92 - 11.76]  market and spent a lot of time extolling the virtues of its platform, Windows, to its partners,
+[11.76 - 17.20]  software creators, who wrote Windows program. The Software Vendors Association also spent a lot
+[17.20 - 21.52]  of time warning programmers about the risks of piracy and the problems they'd have with their
+[21.52 - 24.96]  customers deciding to copy them into the courthouse. This served to
+
+[0.00 - 4.00]  still more creative, which was meant to provide a shield against this threat.
+[4.00 - 9.00]  But then Microsoft started to undercut the same companies that had trusted its platform.
+[9.00 - 16.00]  In my hometown of Toronto, Del Rina built itself into a huge successful company by selling a ubiquitous fax program, WinFax,
+[16.00 - 21.00]  right up to the day that Windows 95 shipped for the free competitor, Straight from Microsoft.
+[21.00 - 25.00]  Del Rina, seeing which way the wind was blowing, sold itself,
+
+[0.00 - 5.22]  of Symantec. As Brewster tells it, Microsoft spent years waving one hand over its head,
+[5.22 - 11.72]  shouting, Look out pirates, pirates! On the other hand, it held the knife.
+[11.72 - 17.96]  Amazon MP3s. A lateral man. What happened to digital locks for music? How did that get
+[17.96 - 23.66]  to be the only entertainment category to completely abandon them? Funny story. In the beginning,
+[23.66 - 25.00]  there were a bunch of prepri-
+
+
+

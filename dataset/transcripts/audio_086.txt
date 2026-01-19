@@ -1,0 +1,6 @@
+[0.00 - 7.00]  expensive watermarking project ever undertaken, figured out how to do it.
+[8.20 - 10.40]  Chapter 1.5
+[10.40 - 11.40]  Understanding General Purpose
+[11.40 - 15.72]  Back at the dawn of mechanical computation, computers were special purpose.
+[15.72 - 21.40]  One computer would solve one kind of mathematical problem, but during World War II, thanks to
+[21.40 - 25.00]  the government funded advancements made by such scientific luminary

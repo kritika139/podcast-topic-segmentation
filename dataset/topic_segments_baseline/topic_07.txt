@@ -1,0 +1,75 @@
+===== block_011.txt =====
+[0.00 - 4.00]  sells all its digital video and audiobooks with DRM.
+[4.00 - 8.00]  Many people assume that this is at publishers insistence, and it's not so.
+[8.00 - 12.00]  When Random House Audio published the audiobook of my novel, Little Brother,
+[12.00 - 15.00]  Apple refused to carry it without DRM.
+[18.00 - 22.00]  Chapter 1.4. Digital Locks Always Break
+[22.00 - 25.00]  Digital lock vendors tend to focus on how hard their
+
+[0.00 - 6.00]  technologies if you attack it where it's strongest. We have 256 bits an hour key and it would take a
+[6.00 - 11.36]  trillion years to guess it, they say, but this doesn't matter if you can decrypt the file without
+[11.36 - 17.36]  having to guess the key. If, say, you can find the key just by looking hard inside the player
+[17.36 - 22.48]  form the way around using the key entirely. There's a little joke about the guy who drops his keys by
+[22.48 - 24.96]  his car but searches for them under a lamp.
+
+[0.00 - 5.04]  post a ways off. When someone asks what he's doing, he says, this is where the light is.
+[5.04 - 9.12]  Digital lock vendors armor the parts of the file they know how to armor, and then cross their
+[9.12 - 13.36]  finger at the people who want to copy their files don't attack on their work flanks,
+[13.36 - 18.88]  even though there's no conceivable reason for this not to happen. Take for instance ebooks.
+[19.68 - 24.88]  Never in the history of the world have there been more qualified typists than there are to
+
+[0.00 - 3.84]  My grandmother, a secretary, could hammer out 70 words per minute,
+[3.84 - 7.92]  and she was regarded as a kind of circus for the girls in the office.
+[7.92 - 11.68]  Today, 70 word per minute typists are as common as air.
+[12.32 - 15.12]  Walk into a 10th grade computer lab and close your eyes,
+[15.12 - 19.04]  and you could almost believe you were standing in a tin shack in a rainstorm.
+[19.04 - 24.96]  All those talented young fingers hammering at the keys, the telltale whacked the keyboards like the pings and raindrops.
+
+[0.00 - 5.32]  Turning the printed or digitized words of a book into a text file of a book is a tedious chore
+[5.32 - 11.22]  But there are plenty of people out there who are up for and what someone has done it the book can be shared instant
+[11.22 - 12.04]  in
+[12.04 - 21.68]  2007 JK Rowling who had retained and never exercised ebook rights to each of her Harry Potter novels released the 7th and final volume in the series
+[22.32 - 25.10]  exclusively as a printing issue fans respond
+
+
+
+===== block_012.txt =====
+[0.00 - 3.50]  by converting it to an e-book within 24 hours.
+[3.50 - 6.00]  First, lining up to get their copies of bookstores
+[6.00 - 8.00]  at midnight when they went on sale,
+[8.00 - 10.50]  then retyping or scanning every page.
+[10.50 - 13.00]  Meanwhile, in Germany, another group of fans,
+[13.00 - 15.00]  impatient for the official Germany edition,
+[15.00 - 19.00]  took it upon themselves to translate the entire book
+[19.00 - 20.50]  into German.
+[20.50 - 23.00]  A few days later, their German edition was made.
+[23.00 - 25.00]  Mind you, Deathly Hollows wasn't
+
+[0.00 - 7.28]  a little book. It stands, or rather falls crashing to the floor, at a whopping 784 pages.
+[7.84 - 13.12]  And it's not as if such feats have gotten harder since 2007, nor are there fewer people
+[13.12 - 18.72]  qualified to perform them. As I once wrote in a novel, never underestimate the determination
+[18.72 - 29.84]  of a kid who is cash poor and time rich. Now, maybe you don't fancy retail, there are.
+
+[0.00 - 4.00]  other. Google's book search program scanned books and converted them to text at such a
+[4.00 - 11.04]  furious clip that 15 million books were digitized in six years. This being nearly every book
+[11.04 - 17.28]  ever published. Building your own homebrew book scanner cost less than $300 and there are extremely
+[17.28 - 21.84]  well written weekend project instructions for how to do it on the internet. How convenient.
+[22.40 - 24.56]  Perhaps this still seems like too much work.
+
+[0.00 - 4.32]  Start with the eBook then. All you need to do is download a free screen capture
+[4.32 - 9.20]  one that is capable of capturing a predetermined region of your screen at the click of a button.
+[9.20 - 11.84]  Pair it up with your eBook reading Amazon's Kindle app.
+[12.48 - 16.48]  Click the button that takes you to the first page and then click the button that captures and
+[16.48 - 20.56]  saves the rectangle of screen where the page is. Do this once for every page in the book,
+[20.56 - 24.16]  call it each per second, and you'll end up with a folder full of pages.
+
+[0.00 - 4.74]  Now upload those pages to Google's free Optical Character Recognition Software, which
+[4.74 - 8.24]  converts pictures of words back into plain text.
+[8.24 - 10.56]  Download the results and call it a day.
+[10.56 - 14.48]  There are analogs for these processes for practically all locked and you can play locked
+[14.48 - 19.24]  audio out the headphone jack of one device and into the mic jack of another recapturing
+[19.24 - 20.24]  the audio.
+[20.24 - 24.76]  You can plug the high definition analog outputs from your media player into the high definition
+
+
+

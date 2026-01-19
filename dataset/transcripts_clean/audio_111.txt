@@ -1,0 +1,5 @@
+[0.00 - 5.20] all its features removed so that it can run only the appliance program instead. its usually a
+[5.20 - 10.88] fully functional generalpurpose computer capable of running every program thats shipped with spyware
+[10.88 - 15.28] and other countermeasures installed so that it comes out of the box treating you its owner
+[15.28 - 20.32] as an attacker and does everything it can think of to stop you from seeing its interworking.
+[20.32 - 24.88] its more if you do figure out how to get inside the machine and make it do more than the manufacturer

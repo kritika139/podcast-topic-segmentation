@@ -1,0 +1,6 @@
+[0.00 - 3.84]  serious bug that stopped CD ripping software from running.
+[3.84 - 6.68]  This is the equivalent of an autoimmune allergy.
+[6.68 - 11.92]  The computer's owner has a process that she wants to run a CD copying process, but the
+[11.92 - 17.24]  computer erroneously identifies that program as undesirable and kills it every time it
+[17.24 - 20.84]  tries to start, but it didn't stop there.
+[20.84 - 24.96]  Once there were millions of computers in the wild that couldn't see files that started

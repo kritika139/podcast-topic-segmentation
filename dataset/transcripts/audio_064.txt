@@ -1,0 +1,4 @@
+[0.00 - 5.00]  C5, 63, 56, 88, C0.
+[5.00 - 6.50]  That's hexadecimal.
+[6.50 - 11.00]  One of the counting systems used by computer probe in decimal, the number looks like this.
+[11.00 - 25.00]  13, 256, 278, 887, 989, 457, 651, 018, 865, 901, 401, 704, 642.

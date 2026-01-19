@@ -1,0 +1,8 @@
+[0.00 - 3.44] this principle gave birth to the modern computer as we understand it.
+[3.44 - 7.80] it suggests that all computers are equivalent on a fundamental level.
+[7.80 - 12.72] any computational task can run on any computer, though some computers might take trillions
+[12.72 - 14.64] of years to run the whole program.
+[14.64 - 16.96] its nearly miraculous this business.
+[16.96 - 20.72] until the middle of the last century, most computers were purposebuilt to compute in
+[20.72 - 22.52] one particular way.
+[22.52 - 25.00] today we can and do routine...

@@ -1,0 +1,5 @@
+[0.00 - 5.44]  any process, a program that does something the entertainment industry doesn't like.
+[5.44 - 10.64]  As a rule, computer owners don't want their computers to disobey their orders.
+[10.64 - 15.04]  From the owner's perspective, a computer that won't make copies when you want it to
+[15.04 - 20.48]  is broken, so digital locks need to be designed for stealth as well as vigilance.
+[20.48 - 24.88]  They need to disguise themselves from users and hide their workings from the operating

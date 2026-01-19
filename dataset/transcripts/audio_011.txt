@@ -1,0 +1,6 @@
+[0.00 - 3.68]  piracy one. It's not hard to make a DVD ignore this requirement.
+[3.68 - 8.24]  DVD encryption was first built 10 years ago and there are now tons of software
+[8.24 - 13.04]  DVD players like Handbrake that can play back any part of the game at any speed,
+[13.04 - 18.72]  no matter what region it's from. DVDs contain a region that discs from being bought in one
+[18.72 - 24.24]  part of the game played in another. These players also let you save DVDs to your hard drive. Copy
+[24.24 - 24.88]  them to your tablet.

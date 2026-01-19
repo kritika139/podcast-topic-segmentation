@@ -1,0 +1,5 @@
+[0.00 - 6.96]  as Alan Turing and John von Neumann, a new kind of new existence, the general purpose digital.
+[6.96 - 11.20]  These machines arose from a theory of general purpose computation that showed that with a
+[11.20 - 16.56]  simple set of logic gates and enough memory and time, you could compute any program that could
+[16.56 - 22.32]  be represented symbolically. That is, general purpose computers are machines capable of running
+[22.32 - 24.72]  every valid program you can write.

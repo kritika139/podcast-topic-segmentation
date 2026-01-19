@@ -1,0 +1,7 @@
+[0.00 - 4.08]  If you can magically make heroin appear out of thin air, you're allowed to inject it.
+[4.08 - 8.64]  Otherwise, you're still stuck illegally buying unknown substances from criminals
+[8.64 - 10.24]  and injecting them into your body.
+[12.40 - 13.36]  Watermarking
+[13.36 - 17.52]  Some digital lock companies have promised to solve their problems with watermark.
+[17.52 - 23.20]  They propose to embed imperceptible signals in video and audio and even text that computers can
+[23.20 - 24.96]  search for, confirming that a file

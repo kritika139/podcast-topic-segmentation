@@ -1,0 +1,11 @@
+[0.00 - 2.80] to manage enormous complex network.
+[2.80 - 6.44] the thing is, its often cheaper to base all three models
+[6.44 - 8.48] on exactly the same hardware
+[8.48 - 11.12] and simply load different software and the factor
+[11.12 - 12.72] to make the products different.
+[12.72 - 15.04] this is innocuous in and of itself.
+[15.04 - 17.28] however, it leads to something awfully.
+[17.28 - 19.08] once a company stands to lose money
+[19.08 - 21.96] by allowing customers to examine and modify its products
+[21.96 - 24.68] after theyre sold by switching out that software,
+[24.68 - 26.68] it creates a new product.

@@ -1,0 +1,9 @@
+[0.00 - 5.12] usage statistics for file sharing.
+[0.00 - 5.12] back when itunes required digital locks and all its music,
+[5.12 - 9.24] the big champagne folks decided to show how long it took for a song to go from itunes
+[9.24 - 14.48] to the file sharing.
+[9.24 - 14.48] they chose a song that had an early itunesonly release to exclude
+[14.48 - 18.64] songs that were being ripped from unlocked cds and measured a lot.
+[14.48 - 18.64] they reported that
+[18.64 - 23.84] the net time between the release of a song with a digital lock and the appearance of
+[23.84 - 25.00] the same song on itunes.

@@ -1,0 +1,7 @@
+[0.00 - 2.56] and alter them when the documents were printed.
+[2.56 - 7.32] toys program also scanned the local network for pcs that had known vulnerabilities that
+[7.32 - 9.40] hadnt been patched with a software update.
+[9.40 - 13.88] once it found these computers, it took them over, installed rootkin, and used them to
+[13.88 - 18.84] penetrate their networks firewall and open a connection to toys laptop.
+[18.84 - 22.76] in other words, it broke the whole network wide open.
+[22.76 - 25.00] toys is a very clever security reason.

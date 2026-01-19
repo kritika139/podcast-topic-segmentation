@@ -1,0 +1,8 @@
+[0.00 - 1.36]  of the Valkar church sale.
+[1.36 - 6.28]  The secrecy isn't just harmful to HP printer owners' wallets,
+[6.28 - 8.72]  it's harmful to their security.
+[8.72 - 12.00]  In 2011, Columbia computer science grad student,
+[12.00 - 16.12]  Ang Choy, conducted research into the security of HP printers.
+[16.12 - 18.76]  HP refused to disclose the inner workings of its readers
+[18.76 - 21.48]  to him, citing commercial confidentiality.
+[21.48 - 25.48]  So Choy undertook to reverse engineer their technology.

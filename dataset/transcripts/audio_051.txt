@@ -1,0 +1,6 @@
+[0.00 - 4.00]  sells all its digital video and audiobooks with DRM.
+[4.00 - 8.00]  Many people assume that this is at publishers insistence, and it's not so.
+[8.00 - 12.00]  When Random House Audio published the audiobook of my novel, Little Brother,
+[12.00 - 15.00]  Apple refused to carry it without DRM.
+[18.00 - 22.00]  Chapter 1.4. Digital Locks Always Break
+[22.00 - 25.00]  Digital lock vendors tend to focus on how hard their
