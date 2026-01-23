@@ -12,11 +12,13 @@ for file in files:
     with open(os.path.join(input_dir, file), "r", encoding="utf-8") as f:
         text = f.read().strip()
 
+    # Skip very small segments
     if len(text.split()) < 20:
-        continue  # skip very small topics
+        continue
 
     vectorizer = TfidfVectorizer(
         stop_words="english",
+        token_pattern=r'(?u)\b[a-zA-Z][a-zA-Z]+\b',
         max_features=10
     )
 
@@ -28,4 +30,4 @@ for file in files:
         for kw in keywords:
             out.write(kw + "\n")
 
-print("✅ Keyword extraction completed")
+print("Keyword extraction completed successfully")

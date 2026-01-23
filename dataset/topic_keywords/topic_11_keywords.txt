@@ -1,10 +1,10 @@
-00
-10
-12
-15
-20
-24
-96
 computer
 computers
+digital
+immune
 program
+programs
+purpose
+root
+software
+string
