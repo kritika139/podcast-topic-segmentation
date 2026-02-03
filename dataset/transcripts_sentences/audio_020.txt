@@ -1,6 +1,0 @@
-[0.00 - 6.00] youve stopped asking and just automatically you fed it converting as need be.
-[0.00 - 6.00] likewise,
-[6.00 - 12.08] in the early days of web browsers, there were lots of warring graphics, a whole acronym salads work,
-[12.08 - 21.60] gif, jpeg, png, svg, bmp.
-[12.08 - 21.60] depending on the page you visited and the browser you get little red xs
-[21.60 - 26.88] or error messages telling you your browser wasnt compatible.

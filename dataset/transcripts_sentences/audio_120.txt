@@ -1,8 +1,0 @@
-[0.00 - 6.24] trust our machines.
-[0.00 - 6.24] adversarial appliances require that computers workings be kept secret,
-[6.24 - 12.08] and digital lock rules impose civil and criminal penalties on people who discover and publicize
-[12.08 - 21.44] their vulnerabilities.
-[12.08 - 21.44] thats a big problem.
-[12.08 - 21.44] carrier iq, android, and iol.
-[12.08 - 21.44] in 2011, a security
-[21.44 - 24.88] researcher named trevor eckhart discovered that some android...

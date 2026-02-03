@@ -1,5 +1,0 @@
-[0.00 - 5.12]  figure out how to install your own OS on an iPhone and prohibit publishing any information
-[5.12 - 10.20]  that would help someone else do the same. Developers, who are allowed some limited transparency
-[10.20 - 15.36]  in inner workings of iOS devices, are required to sign non-disclosure agreements as a condition
-[15.36 - 21.12]  of access. Imagine a home security whose burglar detection system lets them secretly listen
-[21.12 - 25.00]  in on your private moments at home and watch you through your CCD.

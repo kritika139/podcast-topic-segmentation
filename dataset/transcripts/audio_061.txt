@@ -1,5 +1,0 @@
-[0.00 - 5.28]  log inputs on your computer and recapture video. All of these methods are admittedly
-[5.28 - 10.00]  tedious. If you really wanted to go into the lock pit, you'd have to know something about
-[10.00 - 15.84]  program. The truth is that most digital locks that anyone cares about are broken in a day or two.
-[15.84 - 23.76]  In 2006, a programmer who called himself Newslix64 broke the locks on a software-based HD DV. He
-[23.76 - 24.96]  chose the player because...

@@ -1,5 +1,0 @@
-[0.00 - 3.84] soon, there were millions of copies of the number.
-[3.84 - 12.74] as of july 2014, google knew of about 518,000 webpages containing the secret number.
-[12.74 - 16.60] other keys have been discovered since the programmers routinely turn these extracted
-[16.60 - 21.56] keys into programs that automatically strip the locks off of digital files so you need
-[21.56 - 25.00] to be able to take a lock off yourself in order to accomplish this.

@@ -1,9 +1,0 @@
-[0.00 - 4.74]  Thus, we arrive at yet another problem with digital locks.
-[4.74 - 7.14]  Fundamental, the only way to get computers
-[7.14 - 10.34]  to resist users' attempts to see what's going on inside them
-[10.34 - 12.66]  is to design programs with the facility
-[12.66 - 15.22]  to misreport their files and process.
-[15.22 - 17.70]  Forcing such programs on users
-[17.70 - 20.78]  inevitably opens the door to spyware.
-[20.78 - 24.02]  What Your PC Seed?
-[24.02 - 25.10]  In 2009,

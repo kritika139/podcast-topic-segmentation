@@ -1,9 +1,0 @@
-[0.00 - 4.00] other.
-[0.00 - 4.00] googles book search program scanned books and converted them to text at such a
-[4.00 - 11.04] furious clip that 15 million books were digitized in six years.
-[4.00 - 11.04] this being nearly every book
-[11.04 - 17.28] ever published.
-[11.04 - 17.28] building your own homebrew book scanner cost less than 300 and there are extremely
-[17.28 - 21.84] well written weekend project instructions for how to do it on the internet.
-[17.28 - 21.84] how convenient.
-[22.40 - 24.56] perhaps this still seems too much work.

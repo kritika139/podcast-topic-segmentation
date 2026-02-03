@@ -1,4 +1,0 @@
-[0.00 - 5.84]  and Android operating. CHPone was able to ascertain that carrier IQ was present on iOS too. Ultimately,
-[5.84 - 15.44]  it emerged that over 141 million handsets in the United States had been infected with the carrier
-[15.44 - 22.40]  IQ root kit by the carriers themselves without the knowledge or consent of the phones owner.
-[22.40 - 24.88]  The important lesson here, apart from the fact, tell

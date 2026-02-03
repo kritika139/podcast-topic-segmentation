@@ -1,5 +1,0 @@
-[0.00 - 4.68]  bit of a software lead. He created the first search engine, the Wide Area Information
-[4.68 - 11.44]  Server, Waze. Sold it, founded another search company, Alexa, sold it, and then decided to
-[11.44 - 17.02]  spend the rest of it at Archive, Archive.org. An amazing public library. Brewster tells
-[17.02 - 21.12]  a famous story about life in the shadow of Microsoft during the heyday of the packaged
-[21.12 - 25.00]  software industry when all software was sold in boxes hanging from the wall.

@@ -1,5 +1,0 @@
-[0.00 - 6.60]  we make computers that can compute in every describable way. Our world is made up of general
-[6.60 - 11.22]  purpose computers. This is the major reason that digital locks have been dead on arrival
-[11.22 - 15.84]  since their first and why they continue to fail. We know how to build a computer that
-[15.84 - 20.12]  can solve one kind of problem like the adding machine and we know how to build a computer
-[20.12 - 24.76]  that can solve all kinds of things. But we don't know how to design and build a computer

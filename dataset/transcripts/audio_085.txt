@@ -1,5 +1,0 @@
-[0.00 - 5.52]  their work exposed. People who want to remove watermarks can just get two or more copies in the
-[5.52 - 10.48]  file, compare them, bite by bite, look for the bites that are different in each file,
-[10.48 - 17.12]  and scramble those job done. Ed Felton mentioned earlier, once assembled a team of researchers
-[17.12 - 22.08]  that looked at the difficulty of removing the secured digital music initiative watermark,
-[22.08 - 25.12]  the product of the most ambitious and expensive

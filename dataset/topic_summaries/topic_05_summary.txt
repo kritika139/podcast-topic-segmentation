@@ -1,5 +1,0 @@
-===== block_009.txt =====
-[0.00 - 6.12]  Music stores that signed up one or two labels each and distributed music using their own digital locks
-[6.64 - 8.64]  No one liked these stores very much
-[9.00 - 16.82]  Then Apple created the first iPod in 2001 and went around to the labels and said look these things only work with max
-[16.98 - 24.80]  Because they require an obscure cable port called firewire. That's only five percent of the market.

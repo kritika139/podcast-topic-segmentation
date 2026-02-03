@@ -1,9 +1,0 @@
-[0.00 - 2.94] sheet, and theyd complain that they only had excel.
-[2.94 - 6.48] youd send them a word document, and theyd only have word perfect.
-[6.48 - 10.16] over time, this ceased to be a problem, mostly because these programs started
-[10.16 - 14.28] including an automatic feature for reading and writing each others files.
-[14.28 - 16.32] at first, this was complicated.
-[16.32 - 18.36] youd try to open a word processor in your program,
-[18.36 - 21.76] would ask you if you wanted it converted from some obscure file for
-[21.76 - 24.00] the one your program could understand.
-[24.00 - 24.96] then it became automatic.

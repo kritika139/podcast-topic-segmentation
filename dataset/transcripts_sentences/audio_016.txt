@@ -1,8 +1,0 @@
-[0.00 - 4.56] for scrambling.
-[0.00 - 4.56] these algorithms are usually public and well understood, because no one
-[4.56 - 9.06] is ever sure if an algorithm is secure until all her peers get a chance to look at it and
-[9.06 - 14.24] check it over her flaws.
-[9.06 - 14.24] third, theres the key, a secret password thats fed into the
-[14.24 - 19.72] algorithm along clear text in order to produce the scrambled file.
-[14.24 - 19.72] this scrambled file,
-[19.72 - 25.00] the fourth thing is called the ciphered and in that state its an indecipherable mess.

@@ -1,5 +1,0 @@
-[0.00 - 4.64]  is in the hands of the owner. A movie would thus be watermarked with its owner's information,
-[4.64 - 11.44]  saying effectively, I am Corey Doctorow's copy of Star Wars. If a DVD player that isn't registered
-[11.44 - 17.12]  or a doctor or play the movie, it's locked out. Or, alternatively, companies could look on file
-[17.12 - 22.40]  sharing sites for illicit copies of their movies, use watermarks to figure out whom these copies
-[22.40 - 24.80]  originated with and sue or black.

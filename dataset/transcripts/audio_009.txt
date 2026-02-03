@@ -1,5 +1,0 @@
-[0.00 - 4.38]  Implementations of the WCT vary, but usually the variations are small.
-[4.38 - 10.22]  For that reason, I'm going to talk about the effect of WCT as a global phenomenon,
-[10.22 - 18.70]  not limited to the USA, the EU, Australia, Japan, or anywhere else.
-[18.70 - 23.74]  Chapter 1.1 Anti-Circumvention What the hell is anti-circumvention?
-[23.74 - 25.74]  Loosely speaking, it's a lot of...

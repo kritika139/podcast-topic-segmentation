@@ -1,3 +1,0 @@
-[0.00 - 6.28]  he announced his success, another programmer, Arnazami, used Musilix 64's methods to find
-[6.28 - 11.76]  a key that could be applied even more widely. The 09F9 processing key, which can be written
-[11.76 - 24.96]  out as 09F9 1102 9D74 E3 5B 851 4156

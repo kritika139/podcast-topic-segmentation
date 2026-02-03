@@ -1,8 +1,0 @@
-[0.00 - 1.00]  This is useless.
-[1.00 - 5.04]  Imagine a photo with the words copyright Corey Doctorow written in letters that couldn't
-[5.04 - 7.04]  be seen without a powerful microscope.
-[7.04 - 10.96]  A copy of the photo without the copyright would appear functionally identical to the
-[10.96 - 14.24]  copyright unless you went to great lengths to inspect it.
-[14.24 - 18.16]  Of course, you could write copyright Corey Doctorow across the photo in 4-inch black
-[18.16 - 22.52]  letters, but you could have a hard time selling a photo like that.
-[22.52 - 28.52]  Watermarkers have tried to ground, but that leads to a lot of confusion.

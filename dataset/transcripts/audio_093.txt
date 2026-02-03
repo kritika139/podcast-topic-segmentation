@@ -1,7 +1,0 @@
-[0.00 - 6.08]  There's only one class of programs that behaves this way, hiding itself from users and doing
-[6.08 - 8.56]  things that users don't want.
-[8.56 - 9.56]  Spyware.
-[9.56 - 15.44]  Chapter 1.6 Root Kits Every.
-[15.44 - 20.32]  The major strategy behind spyware and anti-copying software is called a root kit.
-[20.32 - 24.44]  Root kits are programs that covertly modify a computer's operating to blind it to certain
-[24.44 - 25.44]  files.

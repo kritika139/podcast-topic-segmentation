@@ -1,6 +1,0 @@
-[0.00 - 5.68]  a copy of the secret key embedded in it. You load the ciphertext file on the player,
-[5.68 - 10.48]  it unscrambles the file and lets you see the clear text, and then it throws the clear text
-[10.48 - 13.92]  away when you're done.
-[13.92 - 18.08]  How Compatibility Works If you've been using computers for a long time,
-[18.08 - 23.16]  you probably remember where there were multiple incompatible ways of creating documents. You'd
-[23.16 - 25.00]  send someone your Apple Work spreadsheet.

@@ -1,5 +1,0 @@
-[0.00 - 3.56]  In my movie library, I don't want to have the investment.
-[3.56 - 9.68]  I want to be able to use one family of devices and one program to manage my movies.
-[9.68 - 15.32]  I'm not going to try to remember which movie goes with which player and which device, and
-[15.32 - 22.24]  I'm certainly not going to get a new box under my TV just for your movies, let alone a new
-[22.24 - 23.44]  TV.

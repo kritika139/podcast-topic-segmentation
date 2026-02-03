@@ -1,6 +1,0 @@
-[0.00 - 4.48] audience can save the file while its decrypted, then they can start to copy it.
-[4.48 - 8.08] and now you have three problems because they can also just take your keys.
-[8.08 - 13.08] you can find those, they can just throw away your specialty and make their own.
-[13.08 - 17.68] and now you have four problems because users who figure out how to get the keys out of your
-[17.68 - 21.00] player can tell other people how to do that too.
-[21.00 - 24.92] and now you have five problems because they can also just...

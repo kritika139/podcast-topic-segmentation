@@ -1,7 +1,0 @@
-[0.00 - 4.38]  rest.
-[4.38 - 9.46]  Chapter 1.7 Appliances A recent trend in the computer industry is to sell general-purpose
-[9.46 - 13.50]  computers as appliances with limited functionality.
-[13.50 - 17.82]  In the last few years, companies have embedded computers into digital photo frames, home
-[17.82 - 23.14]  Wi-Fi routers, portable music players, pacemakers, and car dashboards.
-[23.14 - 24.14]  This is inevitable.
-[24.14 - 25.14]  After all, general-

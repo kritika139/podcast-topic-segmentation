@@ -1,5 +1,0 @@
-[0.00 - 6.68] spyware and digital locks use the same root kit techniques. in 2005, sony bmg
-[6.68 - 12.24] shipped 6 million audio cds loaded with a secret root kit that covertly
-[12.24 - 17.32] installed itself when you inserted one of these cds into your computer. once your
-[17.32 - 23.20] computer had been compromised, any file that began with string sys string was
-[23.20 - 26.88] invisible to the op...

@@ -1,7 +1,0 @@
-[0.00 - 4.40]  computer's hard drive, this software was ostensibly in place to allow the district
-[4.40 - 6.76]  to track down stolen laptops.
-[6.76 - 8.96]  But that's not how it was used.
-[8.96 - 13.76]  Instead, a student discovered the software's existence when he was called into his assistant
-[13.76 - 17.28]  principal's office and accused of taking narcotics.
-[17.28 - 23.44]  He denied the charge and was presented with a photo taken the night before in his bedroom
-[23.44 - 25.04]  showing him consuming.

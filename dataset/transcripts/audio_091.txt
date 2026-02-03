@@ -1,7 +1,0 @@
-[0.00 - 4.28]  Of course, that hasn't stopped the entertainment industry from trying to approximate the effect
-[4.28 - 7.28]  of a computer that doesn't run a certain program.
-[7.28 - 8.64]  And that's where the trouble is.
-[8.64 - 12.44]  Instead of building computers that are incapable of running a program that makes copies of
-[12.44 - 18.84]  files that shouldn't be copied, we make computers that are designed to run all programs.
-[18.84 - 23.92]  Then we add software that watches what that computer's user does at all times and that
-[23.92 - 25.00]  secretly kills.

@@ -1,5 +1,0 @@
-[0.00 - 5.92] pegs and software stores. back in those days, microsoft owned 95 of the operating system
-[5.92 - 11.76] market and spent a lot of time extolling the virtues of its platform, windows, to its partners,
-[11.76 - 17.20] software creators, who wrote windows program. the software vendors association also spent a lot
-[17.20 - 21.52] of time warning programmers about the risks of piracy and the problems theyd have with their
-[21.52 - 24.96] customers deciding to copy them into the courthouse. this served to
