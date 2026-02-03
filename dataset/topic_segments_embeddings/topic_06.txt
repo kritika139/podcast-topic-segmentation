@@ -1,0 +1,76 @@
+===== block_010.txt =====
+[0.00 - 5.08]  Of course, book publishers totally missed this and happily turned their catalogs over
+[5.08 - 13.44]  to Amazon to lock up with its proprietary Kindle for Yikes.
+[13.44 - 16.44]  Chapter 1.3 So this is copy protection?
+[16.44 - 21.80]  Well, if anti-circumvention hands the keys to the business to digital lock companies,
+[21.80 - 25.28]  at least it stops people from making infringing copies, right?
+
+[0.00 - 1.52]  Nope, sorry.
+[1.52 - 3.12]  There's an internet meme called,
+[3.12 - 5.08]  Now You've Got Two Problems.
+[5.08 - 8.56]  As in, your shower broke and you decided to fix it yourself
+[8.56 - 9.84]  instead of calling a plumber.
+[9.84 - 10.92]  Now you've got two problems.
+[10.92 - 13.02]  That's just what's about to happen
+[13.02 - 15.60]  with our digital locks explanation.
+[15.60 - 18.62]  You wanted to stop people from copying your file.
+[18.62 - 21.60]  So you gave them a CypherTek and a player with a key hidden.
+[21.60 - 25.10]  But that player decrypts the file and if your...
+
+[0.00 - 4.48]  audience can save the file while it's decrypted, then they can start to copy it.
+[4.48 - 8.08]  And now you have three problems because they can also just take your keys.
+[8.08 - 13.08]  You can find those, they can just throw away your specialty and make their own.
+[13.08 - 17.68]  And now you have four problems because users who figure out how to get the keys out of your
+[17.68 - 21.00]  player can tell other people how to do that too.
+[21.00 - 24.92]  And now you have five problems because they can also just...
+
+[0.00 - 4.88]  publish the keys, which are small and exceedingly difficult to suppress,
+[4.88 - 11.44]  Blu-ray's keys are 128 bits long. You could spray paint one of them onto a
+[11.44 - 14.40]  smallish wall.
+[14.48 - 19.28]  Is Apple for or against digital locks? One of the world's most successful
+[19.28 - 21.92]  digital lock vendors is Apple. Despite public
+[21.92 - 26.72]  pronouncements from its late co-founder Steve Jobs can
+
+[0.00 - 5.86]  Demi DRM, Apple has deployed digital locks in nearly every corner of its business.
+[5.86 - 13.38]  The popular iOS devices, the iPod, iPhone, iPad all use DRM that ensures that only software
+[13.38 - 16.38]  bought through Apple's store can run on them.
+[16.38 - 22.42]  Apple gets 30% of the purchase price in such software and another 30% of any in-app purchases
+[22.42 - 25.38]  Apple's iTunes store meanwhile
+
+
+
+===== block_011.txt =====
+[0.00 - 4.00]  sells all its digital video and audiobooks with DRM.
+[4.00 - 8.00]  Many people assume that this is at publishers insistence, and it's not so.
+[8.00 - 12.00]  When Random House Audio published the audiobook of my novel, Little Brother,
+[12.00 - 15.00]  Apple refused to carry it without DRM.
+[18.00 - 22.00]  Chapter 1.4. Digital Locks Always Break
+[22.00 - 25.00]  Digital lock vendors tend to focus on how hard their
+
+[0.00 - 6.00]  technologies if you attack it where it's strongest. We have 256 bits an hour key and it would take a
+[6.00 - 11.36]  trillion years to guess it, they say, but this doesn't matter if you can decrypt the file without
+[11.36 - 17.36]  having to guess the key. If, say, you can find the key just by looking hard inside the player
+[17.36 - 22.48]  form the way around using the key entirely. There's a little joke about the guy who drops his keys by
+[22.48 - 24.96]  his car but searches for them under a lamp.
+
+[0.00 - 5.04]  post a ways off. When someone asks what he's doing, he says, this is where the light is.
+[5.04 - 9.12]  Digital lock vendors armor the parts of the file they know how to armor, and then cross their
+[9.12 - 13.36]  finger at the people who want to copy their files don't attack on their work flanks,
+[13.36 - 18.88]  even though there's no conceivable reason for this not to happen. Take for instance ebooks.
+[19.68 - 24.88]  Never in the history of the world have there been more qualified typists than there are to
+
+[0.00 - 3.84]  My grandmother, a secretary, could hammer out 70 words per minute,
+[3.84 - 7.92]  and she was regarded as a kind of circus for the girls in the office.
+[7.92 - 11.68]  Today, 70 word per minute typists are as common as air.
+[12.32 - 15.12]  Walk into a 10th grade computer lab and close your eyes,
+[15.12 - 19.04]  and you could almost believe you were standing in a tin shack in a rainstorm.
+[19.04 - 24.96]  All those talented young fingers hammering at the keys, the telltale whacked the keyboards like the pings and raindrops.
+
+[0.00 - 5.32]  Turning the printed or digitized words of a book into a text file of a book is a tedious chore
+[5.32 - 11.22]  But there are plenty of people out there who are up for and what someone has done it the book can be shared instant
+[11.22 - 12.04]  in
+[12.04 - 21.68]  2007 JK Rowling who had retained and never exercised ebook rights to each of her Harry Potter novels released the 7th and final volume in the series
+[22.32 - 25.10]  exclusively as a printing issue fans respond
+
+
+

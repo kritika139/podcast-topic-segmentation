@@ -1,0 +1,4 @@
+audio_id,file_path,duration_seconds,description
+audio_001,processed_audio/chunks/audio_001.wav,25,Podcast segment 1
+audio_002,processed_audio/chunks/audio_002.wav,25,Podcast segment 2
+audio_003,processed_audio/chunks/audio_003.wav,25,Podcast segment 3

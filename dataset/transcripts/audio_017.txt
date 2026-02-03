@@ -1,0 +1,4 @@
+[0.00 - 5.52]  of no value to anyone unless they have the key to scramble it. People can copy this encrypted
+[5.52 - 11.12]  file all they want and it won't ever substitute for the legit product because it's indistinguishable
+[11.12 - 16.64]  from random noise. With the algorithm works, the file can't be unscrambled unless you have that key.
+[17.20 - 23.04]  With a digital lock, the player, the Kindle, the DVD player, a software program that plays or

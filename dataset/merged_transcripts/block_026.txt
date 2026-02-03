@@ -1,0 +1,34 @@
+[0.00 - 6.00]  Now imagine that it was illegal to tell anyone about the way that system worked.
+[6.00 - 8.00]  That's the world we're living in.
+[10.00 - 12.00]  Back to the WCT.
+[12.00 - 15.00]  At the start of this chapter, I wrote that the WCT created the digital law
+[15.00 - 20.00]  for the nations of the world of domestic law with small variations from state to state.
+[20.00 - 25.00]  But the truth is, most nations have followed the lead of the U.S. in going much further.
+
+[0.00 - 6.08]  to the WCT requires. The WCT calls for laws against breaking a law to commit an act of
+[6.08 - 12.36]  copyright of DNCA here in the US makes it illegal to break digital locks, period. Other
+[12.36 - 17.88]  countries around the world have followed suit, often at the open explicit urging of the Office
+[17.88 - 22.80]  of the US Trade Representative and lobbyists from the US entertainment industry, which
+[22.80 - 24.80]  means that the problem is even.
+
+[0.00 - 6.20]  worse than the WCT suggestion.
+[6.20 - 8.80]  Chapter 1.9, Worse Than Nothing.
+[8.80 - 13.52]  The technical implausibility and unintended consequences of digital locks are big problems
+[13.52 - 15.20]  for digital lock makers.
+[15.20 - 19.32]  But we're more interested in what digital locks do to creators and their investors,
+[19.32 - 24.60]  and there's one important harm we need to discuss before we move on.
+
+[0.00 - 3.20]  turn paying customers to pirates.
+[3.20 - 6.60]  One thing we know about audiences is that they aren't very interested in hearing
+[6.60 - 10.70]  excuses about why they can't buy the media they want, when they want it,
+[10.70 - 12.96]  in the format they want to buy it in.
+[12.96 - 17.32]  Study after study shows that overseas downloading of US TV shows drops off
+[17.32 - 20.72]  sharply when those shows are put on the air internationally.
+[20.72 - 24.76]  That is, people just want to watch the TV their pals are talking about on the internet.
+
+[0.00 - 5.44]  pay for it if it's for sale, but if it's not, they'll just get it for free. Walking
+[5.44 - 10.40]  users out doesn't reduce downloads, it reduces sales.
+[10.40 - 16.64]  The first person to publish a program to break the digital locks on old-style DVDs in 1999
+[16.64 - 23.64]  was Jhon Lech Johansson, a 15-year-old Norwegian teenager. DVD Jhon took up the project because
+[23.64 - 25.04]  his computer ran the gu...
+

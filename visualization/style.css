@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+#timeline {
+    display: flex;
+    gap: 10px;
+}
+
+.segment {
+    padding: 15px;
+    background: #8bc34a;
+    cursor: pointer;
+}
+
+.segment:hover {
+    background: #689f38;
+}
+
+#details {
+    margin-top: 20px;
+}

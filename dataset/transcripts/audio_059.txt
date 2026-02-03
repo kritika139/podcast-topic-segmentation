@@ -1,0 +1,6 @@
+[0.00 - 4.32]  Start with the eBook then. All you need to do is download a free screen capture
+[4.32 - 9.20]  one that is capable of capturing a predetermined region of your screen at the click of a button.
+[9.20 - 11.84]  Pair it up with your eBook reading Amazon's Kindle app.
+[12.48 - 16.48]  Click the button that takes you to the first page and then click the button that captures and
+[16.48 - 20.56]  saves the rectangle of screen where the page is. Do this once for every page in the book,
+[20.56 - 24.16]  call it each per second, and you'll end up with a folder full of pages.

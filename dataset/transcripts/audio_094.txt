@@ -1,0 +1,5 @@
+[0.00 - 5.36]  process. Once a computer has been compromised by a root kit, it will not see the files associated
+[5.36 - 10.32]  with the malicious software it can seal. If you open a folder containing a malicious program on
+[10.32 - 15.36]  a root kit infected computer, the program won't be visible in the folder's listing. Nor will you
+[15.36 - 20.40]  be able to see any of the processes associated with that program. If you go to your computer's
+[20.40 - 24.88]  process mod utility that lists all the programs on your computer, the malicious program

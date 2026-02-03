@@ -1,0 +1,41 @@
+[0.00 - 3.68]  piracy one. It's not hard to make a DVD ignore this requirement.
+[3.68 - 8.24]  DVD encryption was first built 10 years ago and there are now tons of software
+[8.24 - 13.04]  DVD players like Handbrake that can play back any part of the game at any speed,
+[13.04 - 18.72]  no matter what region it's from. DVDs contain a region that discs from being bought in one
+[18.72 - 24.24]  part of the game played in another. These players also let you save DVDs to your hard drive. Copy
+[24.24 - 24.88]  them to your tablet.
+
+[0.00 - 4.24]  it or phone and back them up to your home media source. Curiously, there's no copyright
+[4.24 - 10.40]  law that says it's illegal to skip piracy. There is a law, the DMCA in the US, that says
+[10.40 - 15.20]  it's illegal to descramble a movie without permission. And this is what makes anti-circumvention
+[15.20 - 21.80]  so pernicious. Fundamentally, anti-circumvention is a way of making up new copyright notation,
+[21.80 - 25.00]  eliminate the rewind button, limit pausing to 10 minutes.
+
+[0.00 - 2.56]  and force viewers to sit through ads.
+[2.56 - 4.44]  Just by scrambling your art
+[4.44 - 6.68]  and then saying to the player manufacturers,
+[6.68 - 8.08]  you can't just scramble this
+[8.08 - 9.76]  unless you honor my requirements.
+[9.76 - 12.30]  This may sound like a pretty good deal for career investors.
+[12.30 - 14.08]  After all, let's you charge money for stuff
+[14.08 - 16.10]  that the audience used to get for free.
+[16.10 - 18.30]  When you sold someone a book back in the day,
+[18.30 - 20.70]  they got the whole thing in one package, the locks.
+[20.70 - 23.64]  You can sell them only the right to look at the book
+[23.64 - 24.96]  after 6 p.m.
+
+[0.00 - 5.44]  physically located in North America and not in a commercial establishment. If they want the
+[5.44 - 10.48]  read on the subway rights, those can be sold. I'll come back to what this means for audience
+[10.48 - 15.12]  members later in this book. But for now, let's stick with the impact this has on creators and
+[15.12 - 21.28]  investors. Is it really a good deal for them? Or has anti-circumvention ended up taking negotiating
+[21.28 - 24.96]  power away from people who make and finance art and he
+
+[0.00 - 5.00]  handing it to companies that make digital locks.
+[5.00 - 6.24]  Crypto 101.
+[6.24 - 10.44]  You don't have to be a cryptographer to understand this stuff, but you do need to have a conceptual
+[10.44 - 13.40]  grasp of the way that scrambling and de-scrambling.
+[13.40 - 15.60]  Fundamentally, this is about four things.
+[15.60 - 20.08]  First, there's the unscrambled file, called the Clear Text, which would be the movie you
+[20.08 - 22.60]  watch, the song you hear, or the book.
+[22.60 - 25.00]  There's an algorithm, a mathematical system.
+

@@ -1,0 +1,6 @@
+[0.00 - 5.16] it only confers on each user the right to discover a vulnerability in their iphone,
+[5.16 - 10.20] figure out how to bootstrap that vulnerability into a jailbreak, and then use it.
+[10.20 - 13.76] it doesnt permit you to tell anyone else about the approach you took,
+[13.76 - 17.44] and it certainly doesnt permit you to jailbreak someone elses iphone,
+[17.44 - 20.24] or distribute a tool that does it for them.
+[20.24 - 24.88] its the equipment of legalizing heroin use, but not production or sale.

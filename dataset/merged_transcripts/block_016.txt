@@ -1,0 +1,41 @@
+[0.00 - 3.68]  locked on file sharing services, three minutes.
+[4.40 - 8.64]  This 182nd gap represented the maximum time that a potential
+[8.64 - 11.64]  customer would have to wait before he could get a free copy of
+[11.64 - 14.36]  the song in question, complete with all the freedoms and
+[14.36 - 16.92]  permissions that had been locked out by it.
+[17.12 - 21.00]  The rejoinder to this from digital walk advocates is that
+[21.00 - 24.32]  even if their technology can't deter lawbreakers, it can still
+[24.32 - 25.00]  keep on.
+
+[0.00 - 4.84]  This user is honest and wants to do the rightful act of telling his people to fail to do so.
+[4.84 - 9.20]  But as the eminent computer scientist Ed Felton, a professor at Princeton and formerly the
+[9.20 - 13.48]  chief technologist of the Federal Trade Commission once quipped, nothing needs to be done to
+[13.48 - 18.48]  keep honest people honest, just as nothing needs to be done to keep tall people tall.
+[18.48 - 24.08]  If this is all a digital act can claim to do, then it's not doing very much at all.
+[24.08 - 25.00]  Sometimes things get even worse.
+
+[0.00 - 2.56]  muddier. Every three years, the U.S. Copyright Office
+[2.56 - 5.10]  entertains proposals for exemptions to its digital
+[5.10 - 8.04]  lock rules. In 2010, the Copyright Office granted
+[8.04 - 10.24]  Americans permission to break the digital locks on
+[10.24 - 14.38]  their iPhones, but not their iPods or iPads, ruling
+[14.38 - 17.98]  that jail-breaking, a phone after purchase, constituted
+[17.98 - 21.28]  fair use. However, this permission doesn't legitimize
+[21.28 - 24.36]  the creation or dissemination of tools to accomplish
+[24.36 - 25.02]  the task.
+
+[0.00 - 5.16]  It only confers on each user the right to discover a vulnerability in their iPhone,
+[5.16 - 10.20]  figure out how to bootstrap that vulnerability into a jailbreak, and then use it.
+[10.20 - 13.76]  It doesn't permit you to tell anyone else about the approach you took,
+[13.76 - 17.44]  and it certainly doesn't permit you to jailbreak someone else's iPhone,
+[17.44 - 20.24]  or distribute a tool that does it for them.
+[20.24 - 24.88]  It's the equipment of legalizing heroin use, but not production or sale.
+
+[0.00 - 4.08]  If you can magically make heroin appear out of thin air, you're allowed to inject it.
+[4.08 - 8.64]  Otherwise, you're still stuck illegally buying unknown substances from criminals
+[8.64 - 10.24]  and injecting them into your body.
+[12.40 - 13.36]  Watermarking
+[13.36 - 17.52]  Some digital lock companies have promised to solve their problems with watermark.
+[17.52 - 23.20]  They propose to embed imperceptible signals in video and audio and even text that computers can
+[23.20 - 24.96]  search for, confirming that a file
+

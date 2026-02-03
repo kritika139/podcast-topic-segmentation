@@ -1,0 +1,72 @@
+[
+    {
+        "topic": "topic_01",
+        "sentiment": "Positive",
+        "score": 0.25
+    },
+    {
+        "topic": "topic_02",
+        "sentiment": "Negative",
+        "score": -0.5
+    },
+    {
+        "topic": "topic_03",
+        "sentiment": "Positive",
+        "score": 0.14583333333333334
+    },
+    {
+        "topic": "topic_04",
+        "sentiment": "Positive",
+        "score": 0.3
+    },
+    {
+        "topic": "topic_05",
+        "sentiment": "Positive",
+        "score": 0.24428571428571427
+    },
+    {
+        "topic": "topic_06",
+        "sentiment": "Positive",
+        "score": 0.4
+    },
+    {
+        "topic": "topic_07",
+        "sentiment": "Positive",
+        "score": 0.25
+    },
+    {
+        "topic": "topic_08",
+        "sentiment": "Negative",
+        "score": -0.5
+    },
+    {
+        "topic": "topic_09",
+        "sentiment": "Negative",
+        "score": -0.175
+    },
+    {
+        "topic": "topic_10",
+        "sentiment": "Positive",
+        "score": 0.16666666666666666
+    },
+    {
+        "topic": "topic_11",
+        "sentiment": "Negative",
+        "score": -0.0232142857142857
+    },
+    {
+        "topic": "topic_12",
+        "sentiment": "Positive",
+        "score": 0.11904761904761905
+    },
+    {
+        "topic": "topic_13",
+        "sentiment": "Negative",
+        "score": -0.04375
+    },
+    {
+        "topic": "topic_14",
+        "sentiment": "Neutral",
+        "score": 0.0
+    }
+]

@@ -1,0 +1,6 @@
+[0.00 - 7.28]  So, a file called string-sys-string-rootkit.exe wouldn't show up when you looked in the folder
+[7.28 - 8.84]  containing it.
+[8.84 - 15.00]  And when that program ran, string-sys-string-rootkit.exe wouldn't be listed in the process.
+[15.00 - 19.82]  The Sony rootkit was used to cloak a program that watched for and then killed attempts
+[19.82 - 22.84]  to copy music off of audio CDs from the users.
+[22.84 - 25.00]  It looked like your computer had suddenly developed a system.

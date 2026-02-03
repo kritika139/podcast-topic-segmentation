@@ -1,0 +1,37 @@
+===== block_015.txt =====
+[0.00 - 4.22]  our world's been reduced to barbarism, you could just show a gang of angry townsfolk
+[4.22 - 10.86]  releasing books. Destroying a book has some of the same emotional tenor as eating a dog.
+[10.86 - 14.98]  After all, both books and dogs have been loyal companions and indispensable service to the
+[14.98 - 22.10]  human race. We know what the traditional book-bought books can be shelved, treasure lent, passed
+[22.10 - 24.98]  on. Books belong to the people who acquire them.
+
+[0.00 - 4.44]  but they are also a responsibility, something to be curated and looked at.
+[4.44 - 8.68]  This sentimental attachment is of incalculable value to publishing in,
+[8.68 - 13.52]  which sells innumerable books to people who merely want to display them for status,
+[13.52 - 16.68]  or who feel that owning books is the right thing to do.
+[16.68 - 20.92]  The digital lock on a book says that you're not the book's owner,
+[20.92 - 24.88]  merely its licensor, whose rights are set out in a long,
+
+[0.00 - 5.60]  comprehensible license. You have to click for parting. Most people understandably pretend
+[5.60 - 9.84]  it's a matter and that the ownership term continued to be bound by the social contract
+[9.84 - 15.44]  that stretches back to the Roman Empire. Good thing, too. If publishers do succeed in convincing
+[15.44 - 20.56]  readers that books are just like CDs and ease, then the sight of a book in a shredder will
+[20.56 - 24.80]  no more emotional kick than the sight of an old, scratched CD.
+
+[0.00 - 7.60]  in the gutter and publishers who's all the social value they currently get.
+[7.60 - 9.68]  Speed bumps and honest use.
+[9.68 - 13.56]  If you ask companies why they bother with digital locks when they're so easy to overcome,
+[13.56 - 18.64]  they say things like, speed bumps don't prevent you from speeding, they get harder to speed.
+[18.64 - 20.72]  This is a digital speed bump.
+[20.72 - 23.16]  Fortunately for them, the evidence doesn't bear out the truth.
+[23.16 - 25.00]  Big Champagne is a medium metrics comes in.
+
+[0.00 - 5.12]  usage statistics for file sharing. Back when iTunes required digital locks and all its music,
+[5.12 - 9.24]  the big champagne folks decided to show how long it took for a song to go from iTunes
+[9.24 - 14.48]  to the file sharing. They chose a song that had an early iTunes-only release to exclude
+[14.48 - 18.64]  songs that were being ripped from unlocked CDs and measured a lot. They reported that
+[18.64 - 23.84]  the net time between the release of a song with a digital lock and the appearance of
+[23.84 - 25.00]  the same song on iTunes.
+
+
+

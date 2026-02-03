@@ -1,0 +1,7 @@
+[0.00 - 5.76] a scandal erupted in lower marion, pennsylvania, an affluent suburb of philadelphia.
+[5.76 - 10.64] the lower marion school district had used state grants to supply 2,300 high school
+[10.64 - 15.52] students with districtowned laptops.
+[10.64 - 15.52] these computers came loaded with secret software
+[15.52 - 20.96] that could operate the laptops cameras covertly.
+[15.52 - 20.96] when the software ran, the cameras green activity
+[20.96 - 24.96] lights stayed dark, as well as capture screen graphs and copy the files on the

@@ -1,0 +1,107 @@
+===== block_023.txt =====
+[0.00 - 5.20]  all its features removed so that it can run only the appliance program instead. It's usually a
+[5.20 - 10.88]  fully functional general-purpose computer capable of running every program that's shipped with spyware
+[10.88 - 15.28]  and other countermeasures installed so that it comes out of the box treating you its owner
+[15.28 - 20.32]  as an attacker and does everything it can think of to stop you from seeing it's interworking.
+[20.32 - 24.88]  It's more if you do figure out how to get inside the machine and make it do more than the manufacturer
+
+[0.00 - 5.28]  intended, for example, if you jailbreak an iPad, you're very likely breaking the law,
+[5.28 - 9.24]  and you're prohibited from telling anyone how you did it or from going into business
+[9.24 - 13.64]  doing it yourself.
+[13.64 - 17.80]  Chapter 1.8 Proto Appliances, the inkjet wars
+[17.80 - 23.24]  An early example of the adversarial appliance model is the inkjet print official licensed
+[23.24 - 25.00]  inkjet ink is just about the money.
+
+[0.00 - 5.04]  most expensive liquid you can buy, costing more per ounce than vintage champagne.
+[5.04 - 8.34]  That's because the business model of niche printer companies has been to sell printers
+[8.34 - 12.90]  cheaply, sometimes even at a loss, and then to make their profits on the ink re.
+[12.90 - 17.46]  This works only if users can't refill their cartridges themselves or use a competitor's
+[17.46 - 18.46]  ink.
+[18.46 - 22.94]  If HP is marking up its colored water at 100,000% margins, you'd expect a competitor
+[22.94 - 25.02]  to come along and offer the same product at a more…
+
+[0.00 - 6.64]  modest 1,000% margin. But HP protects its margins by designing print inner workings
+[6.64 - 12.24]  archived secrets from the owners of the 100 million odd HP today. No one is supposed to
+[12.24 - 16.48]  know how HP's operating systems work because that would help them figure out how to trick
+[16.48 - 22.16]  HP printers into accepting refill, remanufactured, and third-party ink customers. Every time that
+[22.16 - 25.12]  happens, HP loses out on a hugely profitable
+
+[0.00 - 1.36]  of the Valkar church sale.
+[1.36 - 6.28]  The secrecy isn't just harmful to HP printer owners' wallets,
+[6.28 - 8.72]  it's harmful to their security.
+[8.72 - 12.00]  In 2011, Columbia computer science grad student,
+[12.00 - 16.12]  Ang Choy, conducted research into the security of HP printers.
+[16.12 - 18.76]  HP refused to disclose the inner workings of its readers
+[18.76 - 21.48]  to him, citing commercial confidentiality.
+[21.48 - 25.48]  So Choy undertook to reverse engineer their technology.
+
+
+
+===== block_024.txt =====
+[0.00 - 3.50]  himself and was able to quickly unravel the system.
+[3.50 - 7.50]  We found that HP had voted a lot of resources to preventing legal cartridges,
+[7.50 - 11.00]  but almost none to other types of security.
+[11.00 - 17.00]  To demonstrate this, Toei wrote a simple 200 line program that could turn any document
+[17.00 - 20.00]  into a vector for hijacking HP printers.
+[20.00 - 25.00]  If Toei could convince you to print his document, for example, he sent a resume.
+
+[0.00 - 4.56]  HR department and they printed it, he could seize control of your printer. Once the printer was
+[4.56 - 9.28]  under his control, it would no longer accept software updates from its owner, though it would
+[9.28 - 15.20]  pretend to accept them and register them as being successfully installed. It could also spy on
+[15.20 - 21.60]  every document printed and send copies to Tway's personal dropbox. It could even look for certain
+[21.60 - 24.72]  words or numbers in documents, say social security numbers,
+
+[0.00 - 2.56]  and alter them when the documents were printed.
+[2.56 - 7.32]  Toys program also scanned the local network for PCs that had known vulnerabilities that
+[7.32 - 9.40]  hadn't been patched with a software update.
+[9.40 - 13.88]  Once it found these computers, it took them over, installed Rootkin, and used them to
+[13.88 - 18.84]  penetrate their network's firewall and open a connection to Toys' laptop.
+[18.84 - 22.76]  In other words, it broke the whole network wide open.
+[22.76 - 25.00]  Toys is a very clever security reason.
+
+[0.00 - 2.80]  But he's not a transcendent genius.
+[2.80 - 7.30]  It's an uncertainty that other people figured out these techniques independent of them.
+[7.30 - 11.84]  And the fact that we never heard about it likely means that they kept them to themselves.
+[11.84 - 18.28]  Who sold them the highest bidder in the international identity theft and espionage markets.
+[18.28 - 23.28]  Without a thorough understanding of our computers' workings and without independent verification
+[23.28 - 25.28]  of their security, it's impossible to...
+
+[0.00 - 6.24]  trust our machines. Adversarial appliances require that computers' workings be kept secret,
+[6.24 - 12.08]  and digital lock rules impose civil and criminal penalties on people who discover and publicize
+[12.08 - 21.44]  their vulnerabilities. That's a big problem. Carrier IQ, Android, and IOL. In 2011, a security
+[21.44 - 24.88]  researcher named Trevor Eckhart discovered that some Android...
+
+
+
+===== block_025.txt =====
+[0.00 - 6.00]  phones had shipped with a commercial root kit called Carrier IQ. Carrier IQ bills itself
+[6.00 - 10.56]  as a tool for monitoring and improving mobile network performance by gathering statistics
+[10.56 - 16.36]  about dropped calls, signal streams, and so on. But as Eckhart demonstrated, Carrier IQ
+[16.36 - 21.00]  could do much more on your password than on your phone's keyboard, with your text message
+[21.00 - 25.08]  and pinpoint and transmit for location. When Eckhart published his findings,
+
+[0.00 - 5.44]  the carriers performed the classic deny-threatened-down-play tactics, first denying that they'd done
+[5.44 - 11.60]  anything wrong, then threatening to sue, then finally sheepishly admitting they're wrong and
+[11.60 - 17.28]  apologizing. As this little soap opera was unfolding, the iPhone hacker known as CH Pone used what had
+[17.28 - 23.12]  been discovered about carrier IQ to go hunting for it on iPhones, which run iOS, the closed up
+[23.12 - 25.12]  rival to the mostly open.
+
+[0.00 - 5.84]  and Android operating. CHPone was able to ascertain that carrier IQ was present on iOS too. Ultimately,
+[5.84 - 15.44]  it emerged that over 141 million handsets in the United States had been infected with the carrier
+[15.44 - 22.40]  IQ root kit by the carriers themselves without the knowledge or consent of the phones owner.
+[22.40 - 24.88]  The important lesson here, apart from the fact, tell
+
+[0.00 - 5.44]  coasts are lying even scum, is that it's easier to spot shenanigans in open systems and closed
+[5.44 - 9.52]  systems. It's not a coincidence that the Android Revolution date that's just starting up an item
+[9.52 - 15.28]  OSOther, a carrier and manufacturer, is illegal. And security researchers who publish material
+[15.28 - 20.56]  about the iPhone's workings face legal jeopardy, as do their publishers, employers, and academic
+[20.56 - 24.88]  institutions. The digital lock rules on the BMCA make it illegal to...
+
+[0.00 - 5.12]  figure out how to install your own OS on an iPhone and prohibit publishing any information
+[5.12 - 10.20]  that would help someone else do the same. Developers, who are allowed some limited transparency
+[10.20 - 15.36]  in inner workings of iOS devices, are required to sign non-disclosure agreements as a condition
+[15.36 - 21.12]  of access. Imagine a home security whose burglar detection system lets them secretly listen
+[21.12 - 25.00]  in on your private moments at home and watch you through your CCD.
+
+
+

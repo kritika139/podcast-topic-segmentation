@@ -1,0 +1,8 @@
+[0.00 - 5.00] handing it to companies that make digital locks.
+[5.00 - 6.24] crypto 101.
+[6.24 - 10.44] you dont have to be a cryptographer to understand this stuff, but you do need to have a conceptual
+[10.44 - 13.40] grasp of the way that scrambling and descrambling.
+[13.40 - 15.60] fundamentally, this is about four things.
+[15.60 - 20.08] first, theres the unscrambled file, called the clear text, which would be the movie you
+[20.08 - 22.60] watch, the song you hear, or the book.
+[22.60 - 25.00] theres an algorithm, a mathematical system.

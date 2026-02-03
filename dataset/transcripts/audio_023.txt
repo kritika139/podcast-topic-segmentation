@@ -1,0 +1,5 @@
+[0.00 - 6.92]  Chapter 1.2. Is this copyright protection? The people who make digital locks sell them
+[6.92 - 12.96]  as copy protection. That is, protection against having problems, sometimes as copyright protect.
+[12.96 - 17.48]  We can debate their claim to the former, but we should certainly reject the idea that digital
+[17.48 - 22.36]  locks protect copyright. As things stand now, it's the other way around. Many different
+[22.36 - 25.00]  reasons and rationales for copyright have been offered.

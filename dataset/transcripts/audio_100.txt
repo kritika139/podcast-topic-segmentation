@@ -1,0 +1,5 @@
+[0.00 - 7.00]  string-siss-string, virus writers started to add string-siss-string to the names of their programs too.
+[7.00 - 12.00]  This was the digital equivalent of H. Your computer could no longer detect bad programs
+[12.00 - 17.00]  because it had had a gaping hole punched through the middle of its immune system.
+[17.00 - 22.00]  Any program that adopted the protective coloration of Sony's anti-copying tool
+[22.00 - 25.00]  could cloak itself in Sony's root kit.
